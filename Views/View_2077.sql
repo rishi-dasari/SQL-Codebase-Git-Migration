@@ -5,3 +5,5 @@
 CREATE VIEW dbo.View_2077 AS
 SELECT * FROM dbo.DummyTable;
 GO
+
+-- Updated by Feature Branch: Added Customer Segment Logic
